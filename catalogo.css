@@ -18,14 +18,9 @@
       --branco-40: rgba(255,255,255,0.40);
       --branco-10: rgba(255,255,255,0.10);
 
-      /* Tipografia
-         Inter é a fonte do projeto. O fallback antigo era só `sans-serif`, que
-         no Windows vira Arial — e como o layout usa muito font-weight 200, o
-         Arial (sem peso fino) engrossava tudo. A pilha abaixo cai primeiro no
-         Segoe UI Variable (Win 11, tem pesos leves de verdade), depois Segoe UI
-         (Win 10) e nos equivalentes de mac/Android. Arial só como último recurso. */
-      --font-display: 'Inter', 'Segoe UI Variable Display', 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
-      --font-body: 'Inter', 'Segoe UI Variable Text', 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+      /* Tipografia */
+      --font-display: 'Inter', sans-serif;
+      --font-body: 'Inter', sans-serif;
 
       /* Escala tipográfica */
       --text-display: 72px;
