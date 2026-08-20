@@ -19,9 +19,9 @@
           desc: 'A base do luxo. Texturas orgânicas e padrões exclusivos que definem o caráter do seu espaço.',
           cover: 'pisos/piso.webp',
           videos: [
-            { type: 'youtube', id: 'fHEBXGLVck4', vertical: true, title: 'A presença absoluta do material' },
-            { type: 'youtube', id: 'i4gXTyMsTZo', vertical: true, title: 'Coleção Brazil: o espectro tonal da madeira brasileira' },
-            { type: 'youtube', id: 'j6ptdgucfRs', vertical: true, title: 'Brazil' },
+            { type: 'youtube', id: 'MnDPY-sBBQU', vertical: true, title: 'Wood + Marble: Chevron em Carvalho Mont Blanc' },
+            { type: 'youtube', id: 'IcCOmRA11_4', vertical: true, title: 'Wood + Marble: Versailles em Carvalho Europeu Natural' },
+            { type: 'youtube', id: '90yK_8FzSys', vertical: true, title: 'Wood + Marble: o encontro da madeira com o mármore' },
            ],
           collections: [
             {
